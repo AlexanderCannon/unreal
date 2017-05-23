@@ -1,0 +1,10 @@
+##unreal auto content
+Binaries
+Build
+DerivedDataCache
+Intermediate
+Saved
+Content/StarterContent
+.vs
+##visual studio auto conent
+*.VC.db
